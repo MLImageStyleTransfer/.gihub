@@ -2,9 +2,9 @@
 
 ### Tags
 
-- HSE CSF coursework project
-- 2 course
+- HSE CSF project
 - Petproject
+- Industry flagman challenge
 
 ### Members
 - https://github.com/JUSSIAR
